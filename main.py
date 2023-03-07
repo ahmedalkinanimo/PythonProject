@@ -1,3 +1,4 @@
-print("testing")
-print(4+10)
-print("new test")
+
+
+if __name__ == "__main__":
+    print("new Project Testin")
